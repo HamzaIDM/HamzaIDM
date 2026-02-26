@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am an engineering student at the Hassania School of Public Works (EHTP), specializing in Mathematics and Systems Engineering.<br><br>I am particularly interested in Data Science and Artificial Intelligence. I have begun learning the fundamentals of data analysis using NumPy and Pandas, and I am continuously improving my skills with these tools. I also program in Python and C, and I have basic knowledge of MySQL.<br><br>Before joining EHTP, I studied for two years at the Faculty of Science and Technology in Fez, where I obtained a University Diploma in Science and Technology (DEUST). During that period, my team and I completed a project involving a robotic arm based on Arduino, which allowed me to strengthen my teamwork, problem-solving, and communication skills.<br><br>I am currently focusing on enhancing my technical skills and exploring new tools in data. I am actively looking for an internship opportunity from now, with availability to start in June 2026.<br><br>Curious, motivated, and eager to learn, I aim to progress step by step in the field of data and artificial intelligence while building a solid foundation for my future career.
+Engineering student at the Hassania School of Public Works specializing in Mathematics and Systems Engineering, with a strong interest in optimization, decision-making, and the mathematical modeling of real-world systems.
+
+I am particularly motivated by the application of numerical methods and computational tools to analyze and model complex phenomena in science and engineering. I use Python as a practical tool to implement algorithms and explore analytical solutions.
 
 
 ## 🌐 Socials:
