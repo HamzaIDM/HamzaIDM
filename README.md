@@ -69,15 +69,6 @@ Passionate about **Artificial Intelligence, Data Science, and Optimization** —
 
 ---
 
-### 🧮 Graphical Calculator — Python GUI Application
-> **FST Fès · Python / Tkinter · 2024**
-
-- Fully functional desktop calculator with dynamic expression rendering
-- Operator-precedence handling and real-time display updates
-- Built with OOP principles and event-driven programming
-
----
-
 ## 📚 Currently Studying @ EHTP
 
 `Optimization & Decision Making` · `Advanced Algorithmics & Game Theory` · `Numerical Modeling & Scientific Computing` · `Fitting Statistical Models` · `Probability & Statistics` · `Automation & Signal Processing` · `Networks & Databases` · `Cybersecurity & Cryptography`
