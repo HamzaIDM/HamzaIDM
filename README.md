@@ -22,9 +22,12 @@ Passionate about **Artificial Intelligence, Data Science, and Optimization** —
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -34,11 +37,24 @@ Passionate about **Artificial Intelligence, Data Science, and Optimization** —
 ## 🚀 Projects
 
 ### 🎮 Nine Men's Morris — AI Strategy Game Engine
-> **EHTP · Advanced Algorithmics & Game Theory · C Programming · 2026**
+> **EHTP · Advanced Algorithmics & Game Theory · C Programming · Feb–Mar 2026**
 
 - Complete game engine in C with full rule enforcement (placement, movement, mill detection, capture)
 - AI opponent built with **Minimax algorithm + Alpha-Beta pruning** for optimal move selection
 - Modular architecture: board representation, game-state machine, rule engine, ASCII interface
+
+🔗 [View Repository](https://github.com/HamzaIDM/JeuDeMoulin)
+
+---
+
+### 📊 Consumer Behavior Analysis — Data Analyst Project
+> **EHTP · Python / Pandas / MySQL / Power BI · Mar 2026**
+
+- Analyzed shopping behavior of **3,900 customers** to uncover revenue, loyalty, and seasonality patterns
+- Queried and aggregated data using **MySQL**; processed and explored datasets with **Python & Pandas**
+- Built an interactive **Power BI dashboard** to communicate findings to non-technical stakeholders
+
+🔗 [View Repository](https://github.com/HamzaIDM/customer-shopping-behavior-analysis)
 
 ---
 
@@ -70,8 +86,19 @@ Passionate about **Artificial Intelligence, Data Science, and Optimization** —
 
 ## 🏅 Certifications
 
-- 🐍 **Python for Data Science, AI & Development** — IBM *(Nov 2025)*
+- 🐧 **Tools of the Trade: Linux & SQL** — Google *(Mar 2026)*
 - 🔧 **Getting Started with Git and GitHub** — IBM *(Dec 2025)*
+- 🐍 **Python for Data Science, AI & Development** — IBM *(Nov 2025)*
+
+---
+
+## 🤝 Extracurricular & Volunteering
+
+**Events Cell Member — Hassania IT Club (H.I.T.C), EHTP** *(Oct 2025 – Present)*
+> Organized coding competitions & workshops; coordinated with external speakers and bridged students with industry professionals.
+
+**Training Team Member — Hassania Junior Entreprise (HJE), EHTP** *(Oct 2025 – Present)*
+> Identified training topics and connected students with professional trainers for educational workshops.
 
 ---
 
