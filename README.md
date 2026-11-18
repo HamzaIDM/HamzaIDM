@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Idrissi Meliani 👋
 
-First-year engineering student at **Ecole Hassania des Travaux Publics (EHTP)**, studying **Mathematics and Systems Engineering**.
+Second-year engineering student at **Ecole Hassania des Travaux Publics (EHTP)**, studying **Mathematics and Systems Engineering**.
 
 My work sits between algorithms and data. This semester I built two projects independently: an AI game engine in C with Minimax search, and a customer analytics pipeline on 3,900 retail records — from raw data to a Power BI dashboard. I use Python and C as my main tools, and I'm drawn to problems where the math and the code are both doing real work.
 
@@ -35,6 +35,26 @@ My work sits between algorithms and data. This semester I built two projects ind
 ---
 
 ## 🚀 Projects
+
+### 🌦️ Calibration of AI Weather Models — Internship at Maroc Météo (DGM)
+> **General Directorate of Meteorology of Morocco · Python / scikit-learn / LightGBM / Optuna · 2026**
+
+- Measured the errors of eight AI weather models (AIFS, GraphCast, Pangu-Weather, FourCastNet, Aurora, FuXi, FengWu, DLWP) at 34 Moroccan stations, then trained models that learn each forecast's bias and remove it.
+- Cut the temperature RMSE of all eight models on unseen, more recent data, by up to **44.7 %** (AIFS), using a time-ordered split that is never shuffled.
+
+🔗 [View Repository](https://github.com/HamzaIDM/ai-weather-model-calibration)
+
+---
+
+### 🏪 Librairie Papeterie Idrissi — Point of Sale & Management App
+> **Python / PyQt6 / SQLite & PostgreSQL / ReportLab · 2026**
+
+- Bilingual (French / Arabic, right to left) desktop app for a bookshop: barcode checkout, PDF receipts and invoices, stock, school supply lists, credit notes and customer credit.
+- Works offline on a single till or across several tills, with verified backups and per-machine activation. Delivered as a Windows executable.
+
+🔗 [View Showcase](https://github.com/HamzaIDM/librairie-papeterie-idrissi)
+
+---
 
 ### 📊 Consumer Behavior Analysis — Data Analyst Project
 > **EHTP · Python / Pandas / MySQL / Power BI · Mar 2026**
@@ -83,7 +103,10 @@ My work sits between algorithms and data. This semester I built two projects ind
 
 ## 🤝 Extracurricular & Volunteering
 
-**Events Cell Member — Hassania IT Club (H.I.T.C), EHTP** *(Oct 2025 – Present)*
+**President — Hassania IT Club (H.I.T.C), EHTP** *(2026 – 2027)*
+> Leading the club's office and cells: CODE IT, CSEdWeek school visits, trainings, sponsoring and the club website.
+
+**Events Cell Member — Hassania IT Club (H.I.T.C), EHTP** *(Oct 2025 – 2026)*
 > Organized coding competitions and workshops; handled speaker outreach, panel coordination, and logistics for technical events.
 
 **Training Team Member — Hassania Junior Entreprise (HJE), EHTP** *(Oct 2025 – Present)*
